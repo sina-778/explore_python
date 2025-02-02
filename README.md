@@ -289,5 +289,6 @@ Test the [*input()*](https://docs.python.org/3/library/functions.html#input) fun
   exit()
 ```
 (1 Pt)
-#   e x p l o r e _ p y t h o n  
+#   e x p l o r e _ p y t h o n 
+ 
  
