@@ -6,3 +6,6 @@ print(fruits.count('apple'))
 print(fruits.index('orange'))
 fruits.sort()
 print(fruits)
+
+
+globals()
